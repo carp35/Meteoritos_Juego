@@ -11,6 +11,6 @@ export_presets.cfg
 data_*/
 
 # Carpetas extras para para ignorar (descomentar según necesidad)
-Build/
+Builds/
 #Documentation/
 TemporalAssets/
