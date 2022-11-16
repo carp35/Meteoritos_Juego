@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/disparo.wav-c03ba318166cd2b2f80c611c633e10a3.sample"
+
+[deps]
+
+source_file="res://Juego/Proyectiles/disparo.wav"
+dest_files=[ "res://.import/disparo.wav-c03ba318166cd2b2f80c611c633e10a3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
